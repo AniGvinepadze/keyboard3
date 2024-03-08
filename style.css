@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 500px;
+  height: 485px;
+}
+.h41 {
+  font-size: 24px;
+  color: brown;
+  margin-top: 100px;
+}
+.span1 {
+  color: black;
+}
+.class1 {
+  margin-left: 15px;
+  margin-top: 30px;
+  color: red;
+}
+.span2 {
+  color: black;
+}
+button {
+  text-align: center;
+  margin-top: 92px;
+  background-color: brown;
+  border-radius: 28px;
+  color: white;
+  font-size: 20px;
+  width: 255px;
+  height: 65px;
+}
+div {
+  margin: 50px 400px;
+  padding: 36px 25px;
+  border: 2px solid;
+  border-radius: 20px;
+  width: 550px;
+  height: 900px;
+}
+.span3 {
+  margin-left: 130px;
+}
